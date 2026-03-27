@@ -1,0 +1,6 @@
+ID,title,description,status,priority,dueDate,project_ID,assignee_ID
+t1,Design Mockups,Create Figma designs for all pages,done,high,2024-12-01,p1,u1
+t2,Setup CI/CD,Configure GitHub Actions pipeline,in_progress,critical,2025-02-01,p1,u2
+t3,Write Unit Tests,Cover all service handlers,open,medium,2025-03-01,p1,u3
+t4,API Integration,Connect frontend to backend APIs,open,high,2025-03-15,p2,u2
+t5,Push Notifications,Implement Firebase push notifications,open,medium,2025-04-01,p2,u3
