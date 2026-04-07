@@ -13,11 +13,14 @@
   "devDependencies": {
     "@cap-js/sqlite": "2"
   },
-  "cds": {
+   "cds": {
     "requires": {
       "db": {
         "kind": "sqlite",
         "db": "task-manager.db"
+      },
+      "auth": {
+        "kind": "dummy"
       }
     }
   }
